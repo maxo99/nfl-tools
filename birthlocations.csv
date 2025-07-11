@@ -1,0 +1,181 @@
+Rk,Country,State,# of Pros,# Active,# of HOF,G,TDs,Most Touchdowns,TDs,Most Games Played,Games,Most Touchdowns-additional,Most Games Played-additional
+1,USA,CA,2683,269,23,138545,8272,Marcus Allen,145,Jeff Feagles,352,AlleMa00,FeagJe20
+2,USA,TX,2709,255,38,140120,9031,LaDainian Tomlinson,162,Matt Stover,297,TomlLa00,stovemat01
+3,USA,FL,1784,245,21,95143,6782,Emmitt Smith,175,Phil Dawson,305,SmitEm00,dawsophi01
+4,USA,GA,1107,207,11,61613,4025,Jim Brown,126,John Kasay,301,BrowJi00,kasayjoh01
+5,Unknown,,220,182,0,2385,69,,,,,-9999,
+6,USA,OH,1589,107,24,72586,3839,Cris Carter,131,Lou Groza,268,CartCr00,GrozLo20
+7,USA,LA,995,103,12,53650,4359,Marshall Faulk,136,Peyton Manning,266,FaulMa00,MannPe00
+8,USA,NC,690,100,8,36025,1967,Jimmy Graham,89,Bruce Matthews,296,GrahJi00,MattBr00
+9,USA,IL,1194,88,19,52533,2861,Bill Brown,76,Mike Kenn,251,BrowBi00,KennMi00
+10,USA,AL,805,86,10,42094,2186,Terrell Owens,156,Philip Rivers,244,OwenTe00,RivePh00
+11,USA,PA,1517,79,34,70625,4993,Marvin Harrison,128,George Blanda,340,HarrMa00,BlanGe00
+12,USA,MI,807,76,6,42105,2369,Antonio Gates,116,Earl Morrall,255,GateAn00,MorrEa00
+13,USA,NJ,731,74,8,38524,2431,Franco Harris,100,Irving Fryar,255,HarrFr00,FryaIr00
+14,USA,MS,705,66,9,36541,2576,Jerry Rice,208,Jerry Rice,303,RiceJe00,RiceJe00
+15,USA,MD,315,60,0,16204,1100,Todd Gurley,79,Sean Landeta,284,GurlTo01,LandSe20
+16,USA,TN,488,59,6,24108,1045,Jason Witten,74,Jason Witten,271,WittJa00,WittJa00
+17,USA,SC,485,53,4,30098,1864,DeAndre Hopkins,83,Andy Lee,297,HopkDe00,LeexAn20
+18,USA,NY,912,50,7,40088,1827,Rob Gronkowski,93,Jon Weeks,244,GronRo00,WeekJo00
+19,USA,VA,523,47,11,30974,2033,Thomas Jones,71,Bruce Smith,279,JoneTh00,SmitBr00
+20,USA,MO,448,44,5,20831,1241,Ezekiel Elliott,88,Pat Leahy,250,ElliEz00,leahypat01
+21,USA,AZ,229,38,2,12332,574,Mark Andrews,51,J.J. Jansen,260,AndrMa00,JansJ.00
+22,USA,IN,464,34,4,19920,1091,Mark Clayton,85,Rod Woodson,238,ClayMa00,WoodRo01
+23,USA,WI,472,30,9,20706,1133,Melvin Gordon,70,Mike Webster,245,GordMe00,WebsMi00
+24,USA,UT,156,28,2,7448,316,Steve Young,43,Merlin Olsen,208,YounSt00,OlseMe00
+25,USA,MN,440,27,5,17112,942,Larry Fitzgerald,121,Larry Fitzgerald,263,FitzLa00,FitzLa00
+26,USA,WA,337,27,5,17382,942,Corey Dillon,89,Jason Hanson,327,DillCo00,hansojas01
+27,USA,IA,348,25,1,16801,883,Darren Sproles,64,Reggie Roby,238,SproDa00,RobyRe20
+28,USA,KY,271,22,4,12377,681,Shaun Alexander,112,Jim Marshall,282,AlexSh00,MarsJi00
+29,USA,CO,198,20,1,9370,482,Christian McCaffrey,81,Calais Campbell,261,McCaCh01,CampCa99
+30,USA,OK,506,20,5,21685,1507,Steve Largent,101,Josh Brown,201,LargSt00,brownjos01
+31,USA,MA,438,19,4,18303,858,Don McCauley,58,Joe Nash,218,McCaDo00,NashJo00
+32,USA,OR,193,19,1,10045,446,Jerry Smith,60,Stan Brock,234,SmitJe01,BrocSt20
+33,USA,NV,82,18,0,4207,339,Steven Jackson,78,Lawrence Guy,181,JackSt00,GuyxLa00
+34,USA,HI,122,17,0,6415,118,Marcus Mariota,19,Dominic Raiola,219,MariMa01,RaioDo20
+35,Canada,Ontario,59,16,1,2582,97,Bronko Nagurski,25,Steve Christie,229,NaguBr00,chrisste01
+36,USA,NE,261,15,3,11819,621,Ahman Green,74,Sam Koch,256,GreeAh00,KochSa20
+37,USA,KS,267,14,5,12795,793,John Riggins,116,Kendall Gammon,234,RiggJo00,GammKe00
+38,USA,AR,327,12,6,15879,1624,Don Hutson,105,Trey Junkin,281,HutsDo00,JunkTr20
+39,USA,CT,216,12,4,8039,406,Joe Horn,58,John Carney,302,HornJo00,carnejoh01
+40,Nigeria,,35,12,0,1842,98,Christian Okoye,40,Nelson Agholor,149,OkoyCh00,AghoNe00
+41,USA,DC,209,11,3,10697,595,Brian Westbrook,73,Vernon Davis,198,WestBr00,DaviVe00
+42,USA,WV,190,9,5,7408,596,Randy Moss,157,Randy Moss,218,MossRa00,MossRa00
+43,USA,DE,41,6,0,1904,49,Tim Wilson,9,Duron Harmon,168,WilsTi00,HarmDu00
+44,USA,ID,74,6,1,3813,207,Taysom Hill,44,Wayne Walker,200,HillTa00,WalkWa01
+45,Australia,Victoria,13,6,0,927,0,,,Mat McBriar,141,McBrMa20,
+46,USA,American Samoa,41,5,0,2246,34,Mosi Tatupu,21,Domata Peko,214,TatuMo00,PekoDo20
+47,USA,SD,62,5,1,3085,218,Dallas Clark,53,Adam Vinatieri,365,ClarDa00,vinatada01
+48,USA,MT,74,4,1,3220,54,Will Dissly,15,Tim Hauck,183,DissWi00,HaucTi20
+49,USA,ND,55,4,0,2327,89,Pete Retzlaff,47,Andy Heck,185,RetzPe00,HeckAn20
+50,Canada,Alberta,14,4,0,615,77,Nate Burleson,43,Roy Gerela,145,BurlNa00,GereRo20
+51,USA,AK,16,3,0,1004,17,Steve Smith,12,Mark Schlereth,156,SmitSt02,SchlMa00
+52,USA,NM,46,3,2,2379,119,Tommy McDonald,85,Ronnie Lott,192,McDoTo00,LottRo00
+53,USA,WY,41,3,0,2855,212,Jack Snow,45,Don Cockroft,188,SnowJa00,cockrdon01
+54,Canada,Quebec,22,3,0,1159,24,Tommy Kane,9,L.P. Ladouceur,253,KaneTo00,LadoL.20
+55,Haiti,,9,3,0,464,1,Pierre Desir,1,Gosder Cherilus,132,DesiPi00,CherGo20
+56,Jamaica,,42,3,0,2133,10,Danielle Hunter,2,Sean Jones,201,HuntDa01,JoneSe00
+57,Unknown,CA,2,2,0,9,0,,,,,-9999,
+58,Unknown,LA,2,2,0,24,0,,,,,-9999,
+59,Unknown,TX,2,2,0,3,0,,,,,-9999,
+60,Australia,New South Wales,7,2,0,376,0,,,Darren Bennett,160,BennDa20,
+61,Australia,Western Australia,2,2,0,109,0,,,Mitch Wishnowsky,92,WishMi00,
+62,Cameroon,,9,2,0,366,0,,,Roman Oben,143,ObenRo20,
+63,Canada,British Columbia,19,2,0,1008,25,Chase Claypool,15,Mitch Berger,187,ClayCh01,BergMi20
+64,England,,33,2,0,1888,78,Visanthe Shiancoe,27,Osi Umenyiora,161,ShiaVi00,UmenOs99
+65,Germany,Baden-Wurttemberg,15,2,0,1278,4,Markus Kuhn,1,John Alt,179,KuhnMa00,AltxJo00
+66,Ghana,,2,2,0,18,0,,,Ebenezer Ekuban,122,EkubEb20,
+67,Greece,,7,2,0,226,2,Chris Farasopoulos,1,George Karlaftis,49,FaraCh20,KarlGe00
+68,Scotland,,10,2,0,482,2,James Robertson,2,Graham Gano,202,RobeJa22,GanoGr44
+69,South Africa,,4,2,0,552,15,Jerome Pathon,15,Gary Anderson,353,PathJe00,andergar02
+70,Unknown,MD,1,1,0,3,0,,,,,-9999,
+71,USA,ME,27,1,0,1124,19,Thurlow Cooper,8,Al Harris,149,CoopTh00,HarrAl20
+72,USA,NH,25,1,0,1141,39,Greg Landry,22,Don Macek,162,LandGr00,MaceDo20
+73,USA,RI,40,1,0,1597,84,Tom Mitchell,24,Al Del Greco,248,MitcTo00,delgralx01
+74,USA,U.S. Virgin Islands,11,1,0,632,4,Linval Joseph,1,Linval Joseph,203,JoseLi99,JoseLi99
+75,Austria,,7,1,0,495,0,,,Ray Wersching,206,werscray01,
+76,Bahamas,,4,1,0,102,4,Devard Darling,4,Devard Darling,46,DarlDe00,DarlDe00
+77,Belgium,,3,1,0,125,0,,,Terry Ray,73,RayxTe20,
+78,Belize,,2,1,0,135,0,,,Rakeem Nunez-Roches,133,NuneRa00,
+79,Brazil,,1,1,0,150,0,,,Cairo Santos,150,SantCa01,
+80,Canada,,1,1,0,15,0,,,Isaiah Adams,15,AdamIs01,
+81,Canada,Manitoba,4,1,0,105,6,T.J. Jones,5,T.J. Jones,45,JoneT.00,JoneT.00
+82,Denmark,,5,1,1,489,0,,,Morten Andersen,382,andermor01,
+83,Gambia,,1,1,0,15,0,,,Ali Gaye,15,GayeAl01,
+84,Germany,Bavaria,21,1,1,1040,8,Anthony McDowell,4,Nick Lowery,260,McDoAn00,lowernic01
+85,Guinea,,1,1,0,58,0,,,Kwity Paye,58,PayeKw00,
+86,Hong Kong,,1,1,0,45,0,,,Cameron Dicker,45,DickCa00,
+87,Ireland,,11,1,0,259,1,Bob Nash,1,Neil O'Donoghue,110,NashBo20,odononei02
+88,Ivory Coast,,2,1,0,131,11,Amos Zereoue,11,Amos Zereoue,84,ZereAm00,ZereAm00
+89,Jamaica,,1,1,0,163,0,Danielle Hunter,2,Sean Jones,201,HuntDa01,JoneSe00
+90,Liberia,,11,1,0,580,34,Gus Edwards,30,Tamba Hali,177,EdwaGu00,HaliTa20
+91,Netherlands,,5,1,0,132,0,,,Harald Hasselbach,112,HassHa20,
+92,Northern Ireland,,1,1,0,1,0,,,Jude McAtamney,1,McAtJu00,
+93,Panama,,3,1,0,68,0,,,Darrell Baker,34,BakeDa02,
+94,South Korea,,4,1,0,435,86,Hines Ward,86,Hines Ward,217,WardHi00,WardHi00
+95,Taiwan,,3,1,0,129,1,John Metchie,1,Tony Daykin,73,MetcJo00,DaykTo20
+96,Tonga,,15,1,0,873,17,Tim Manoa,8,Ma'ake Kemoeatu,136,ManoTi00,KemoMa20
+97,Turkey,,2,1,0,309,15,Chris Conley,15,Tunch Ilkin,177,ConlCh00,IlkiTu00
+98,Western Samoa,,1,1,0,11,0,,,Jesse Sapolu,182,SapoJe00,
+99,Zimbabwe,,2,1,0,62,0,,,Nathan Landman,36,LandNa01,
+100,USA,,265,0,0,1431,52,Marty Norton,10,Jake Williams,44,NortMa20,WillJa20
+101,USA,Guam,1,0,0,8,0,,,Troy Andrew,8,AndrTr20,
+102,USA,Puerto Rico,2,0,0,126,0,,,Ken Amato,125,AmatKe20,
+103,USA,VT,10,0,0,444,16,Jim Laird,13,Steve Wisniewski,206,LairJi20,WisnSt00
+104,Angola,,1,0,0,24,0,,,Christo Bilukidi,24,BiluCh00,
+105,Argentina,,3,0,0,201,0,,,Martin Gramatica,109,gramamar01,
+106,Armenia,,1,0,0,48,0,,,Mike Gulian,48,GuliMi20,
+107,Barbados,,5,0,0,306,8,Robert Bailey,3,Robert Bailey,146,BailRo20,BailRo20
+108,Bermuda,,3,0,0,98,20,Ron Davenport,17,Ron Davenport,67,DaveRo00,DaveRo00
+109,Bolivia,,1,0,0,4,0,,,Wilson Alvarez,4,alvarwil01,
+110,Bulgaria,,1,0,0,21,0,,,Boni Petcoff,21,PetcBo20,
+111,Burma,,1,0,0,10,2,Don Thompson,2,Don Thompson,10,ThomDo22,ThomDo22
+112,Canada,New Brunswick,1,0,0,4,0,,,Bill Howell,4,HoweBi20,
+113,Canada,Newfoundland and Labrador,1,0,0,21,3,Ted Williams,3,Ted Williams,21,WillTe20,WillTe20
+114,Canada,Nova Scotia,3,0,0,262,0,,,Eddie Murray,250,murraedd01,
+115,Canada,Saskatchewan,12,0,1,568,37,Rueben Mayes,23,Jon Ryan,191,MayeRu00,RyanJo21
+116,Chile,,1,0,0,11,0,,,Sammis Reyes,11,ReyeSa00,
+117,Colombia,,2,0,0,167,0,,,Fuad Reveiz,147,reveifua01,
+118,Croatia,,2,0,0,34,0,,,George Perpich,27,PerpGe20,
+119,Cuba,,4,0,0,287,4,Lou Molinet,1,Luis Sharpe,189,MoliLo20,SharLu00
+120,Cyprus,,1,0,0,177,0,,,Garo Yepremian,177,yepregar01,
+121,Czech Republic,,5,0,0,128,1,Bullets Walson,1,Will Svitek,79,WalsBu20,SvitWi20
+122,DR Congo,,6,0,0,115,17,Tim Biakabutuka,17,Tim Biakabutuka,50,BiakTi00,BiakTi00
+123,El Salvador,,1,0,0,55,0,,,Jose Cortez,55,cortejos01,
+124,Estonia,,2,0,0,262,0,,,Michael Roos,148,RoosMi20,
+125,Fiji,,1,0,0,55,0,,,Freddy Keiaho,55,KeiaFr20,
+126,France,,4,0,0,201,2,Charles Romes,2,Charles Romes,156,RomeCh20,RomeCh20
+127,Germany,,4,0,0,146,13,Brandon Gibson,13,Brandon Gibson,76,GibsBr00,GibsBr00
+128,Germany,Berlin,5,0,0,193,8,Ladarius Green,8,Uwe von Schamann,89,GreeLa00,vonscuwe01
+129,Germany,Bremen,1,0,0,79,0,,,D.D. Lewis,79,LewiD.21,
+130,Germany,Hamburg,1,0,0,62,0,,,Kasim Edebali,62,EdebKa00,
+131,Germany,Hesse,21,0,0,1235,55,Tony Richardson,24,Tony Richardson,234,RichTo00,RichTo00
+132,Germany,Lower Saxony,4,0,0,141,4,Tony Stewart,3,Tony Stewart,115,StewTo00,StewTo00
+133,Germany,North Rhine-Westphalia,5,0,0,412,1,Jerome Felton,1,Jerome Felton,132,FeltJe00,FeltJe00
+134,Germany,Rhineland-Palatinate,9,0,0,458,47,Reggie Williams,18,Terry Kinard,121,WillRe00,KinaTe00
+135,Germany,Saarland,1,0,0,7,0,,,Phil Nesser,7,NessPh20,
+136,Germany,Saxony-Anhalt,1,0,0,93,0,,,Ralf Mojsiejenko,93,MojsRa20,
+137,Ghana,,3,0,0,217,0,,,Ebenezer Ekuban,122,EkubEb20,
+138,Guatemala,,2,0,1,231,5,Ted Hendricks,4,Ted Hendricks,215,HendTe00,HendTe00
+139,Guyana,,1,0,0,121,1,Lance Schulters,1,Lance Schulters,121,SchuLa00,SchuLa00
+140,Honduras,,2,0,1,119,78,Steve Van Buren,77,Steve Van Buren,83,VanBSt00,VanBSt00
+141,Hungary,,4,0,0,285,0,,,Pete Gogolak,149,GogoPe20,
+142,Iran,,1,0,0,57,0,,,Shar Pourdanesh,57,PourSh20,
+143,Italy,,23,0,1,695,10,David Knight,7,Leo Nomellini,174,KnigDa00,NomeLe00
+144,Japan,,12,0,0,815,16,Robert Griffin,10,John Jackson,203,GrifRo01,JackJo22
+145,Kenya,,2,0,0,21,0,,,Rees Odhiambo,16,OdhiRe00,
+146,Kosovo,,1,0,0,4,0,,,Lirim Hajrullahu,4,HajrLi00,
+147,Latvia,,2,0,0,16,0,,,Vilnis Ezerins,14,EzerVi00,
+148,Lebanon,,2,0,0,4,0,,,Hicham El-Mashtoub,3,El-MHi20,
+149,Libya,,1,0,0,6,1,Tony Cherry,1,Tony Cherry,6,CherTo20,CherTo20
+150,Lithuania,,2,0,0,33,0,,,Arunas Vasys,22,VasyAr20,
+151,Marshall Islands,,1,0,0,175,6,Todd Lyght,6,Todd Lyght,175,LyghTo00,LyghTo00
+152,Mexico,Chihuahua,2,0,0,65,0,,,Frank Corral,64,corrafra01,
+153,Mexico,Coahuila,2,0,0,112,0,,,Raul Allegre,92,allegrau01,
+154,Mexico,Guanajuato,1,0,0,10,0,,,Victor Leyva,10,LeyvVi20,
+155,Mexico,Jalisco,2,0,1,193,39,Tom Fears,39,Efren Herrera,106,FearTo00,herreefr01
+156,Mexico,Mexico City,3,0,0,194,0,,,Rafael Septien,151,septiraf01,
+157,Mexico,Michoacan,3,0,0,178,0,,,Tony Zendejas,149,zendeton01,
+158,New Zealand,,5,0,0,371,0,,,David Dixon,152,DixoDa20,
+159,Norway,,6,0,1,376,0,,,Jan Stenerud,263,stenejan01,
+160,Okinawa,,1,0,0,50,0,,,Rick Berns,50,BernRi00,
+161,Panama Canal Zone,,2,0,0,123,1,Leo Barker,1,Leo Barker,122,BarkLe20,BarkLe20
+162,Paraguay,,1,0,0,90,0,,,Benny Ricardo,90,ricarben01,
+163,Philippines,,7,0,0,293,14,Tim Tebow,12,Eugene Amano,124,TeboTi00,AmanEu20
+164,Poland,,7,0,0,470,1,Chester Marcol,1,Sebastian Janikowski,284,marcoche01,janikseb01
+165,Romania,,4,0,0,145,0,,,George Gross,70,GrosGe20,
+166,Russia,,5,0,0,26,0,,,Morris Glassman,15,GlasMo20,
+167,Saint Kitts and Nevis,,1,0,0,28,0,,,Erasmus James,28,JameEr20,
+168,Saudi Arabia,,1,0,0,14,0,,,Jordan Kent,14,KentJo20,
+169,Sierra Leone,,4,0,0,245,2,Madieu Williams,2,Madieu Williams,119,WillMa20,WillMa20
+170,Spain,,4,0,0,64,3,JJ Arcega-Whiteside,2,JJ Arcega-Whiteside,40,ArceJJ00,ArceJJ00
+171,Sweden,,9,0,0,105,17,Curly Oden,17,Curly Oden,67,OdenCu20,OdenCu20
+172,Syria,,1,0,0,9,0,,,Heinie Jawish,9,JawiHe20,
+173,Thailand,,1,0,0,57,0,,,Tony Brown,57,BrowTo24,
+174,Trinidad and Tobago,,5,0,0,129,1,Curvin Richards,1,Anthony Herrera,80,RichCu00,HerrAn20
+175,Uganda,,3,0,0,201,0,,,Mathias Kiwanuka,120,KiwaMa20,
+176,Ukraine,,3,0,0,244,10,Buckets Goldenberg,10,Buckets Goldenberg,120,GoldBu20,GoldBu20
+177,Venezuela,,2,0,0,4,0,,,Pat Ragusa,3,raguspat01,
+178,Wales,,1,0,0,4,0,,,Allan Watson,4,WatsAl20,
+179,Western Samoa,,6,0,0,356,0,,,Jesse Sapolu,182,SapoJe00,
+180,Yugoslavia,,6,0,0,186,8,Frankie Sinkwich,8,Visco Grgich,78,SinkFr21,GrgiVi00
