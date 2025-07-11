@@ -1,0 +1,20 @@
+[project]
+name = "nfl-tools"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "plotly",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "nbformat>=4.2.0",
+    "nfl_data_py",
+    "requests",
+    "beautifulsoup4",
+    "jupyter",
+    "ipykernel",
+    "ipywidgets",
+]

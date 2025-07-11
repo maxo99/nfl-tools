@@ -1,6 +1,8 @@
-# My Defined ignores
+# USER DEFINED 
 cache/
-#
+data/*.csv
+
+
 ## GitHub Template for Python
 #
 # Byte-compiled / optimized / DLL files
