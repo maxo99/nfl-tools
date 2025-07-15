@@ -1,6 +1,6 @@
 # USER DEFINED 
 cache/
-data/*.csv
+data/**/*.csv
 
 
 ## GitHub Template for Python

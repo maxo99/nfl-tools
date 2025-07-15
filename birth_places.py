@@ -9,6 +9,8 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import time
 
+from settings import DATA_DIR
+
 def scrape_birthplaces(
     country: str,
     state: str,
@@ -132,8 +134,8 @@ def clean_dataframe(df):
 
 def save_data(df, location):
     print(f"Saving data for {location} with {len(df)} rows")
-    filename = f"./data/nfl_players_birthplaces_{location.lower()}.csv"
-    
+    filename = DATA_DIR + f"/birthplaces/{location.lower()}.csv"
+
     df.to_csv(filename, index=False)
     print(f"Data saved to: {filename}")
 
@@ -141,7 +143,7 @@ def save_data(df, location):
 def load_locations_df() -> pd.DataFrame:
     try:
         # TODO: Update Scraping to pull birthlocations from web.
-        locations_df = pd.read_csv('/data/birthlocations.csv')
+        locations_df = pd.read_csv(DATA_DIR + "/birthplaces/birthlocations.csv")
         locations_df = locations_df[['Country', 'State', '# of Pros', '# Active', '# of HOF', 'G']].dropna()
         locations_df = clean_dataframe(locations_df)
         locations_df = locations_df.sort_values(by='# of Pros', ascending=False)
