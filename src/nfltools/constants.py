@@ -36,6 +36,15 @@ class NFLTeam(Enum):
     WAS = ("WAS", "Washington", "Commanders")
 
 
+
+NEWS_RSS_FEEDS = {
+    "ESPN_FEED": "https://www.espn.com/espn/rss/nfl/news",
+    "CBS_FEED": "https://www.cbssports.com/rss/headlines/nfl/",
+    "YAHOO_FEED": "https://sports.yahoo.com/nfl/rss.xml",
+    "SB_NATION_FEED": "https://www.sbnation.com/rss/nfl/index.xml",
+}
+
+
 # TEAMS = {
 #     "AZ": ["Arizona", "Cardinals"],
 #     "ATL": ["Atlanta", "Falcons"],
